@@ -37,6 +37,6 @@ This repository contains daily coding exercises, solutions, and explanations.
 Clone the repo and run any solution:
 
 ```bash
-git clone https://github.com/your-username/Code_everyday_python_1-115.git
+git clone git clone https://github.com/Akin1wale/Code_everyday_python_115Days_Challenge.git
 cd Code_everyday_python_1-115/Day_001
 python day_001_solution.py
