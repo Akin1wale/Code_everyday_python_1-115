@@ -25,7 +25,7 @@ This repository contains daily coding exercises, solutions, and explanations.
 
 | Day | Topic / Problem | Status |
 |-----|-----------------|--------|
-| 001 | Example: Reverse a String | ✅ Done |
+| 001 | script to test for Unique Characters | ✅ Done |
 | 002 | Example: Check Prime Number | ✅ Done |
 | 003 | Example: Fibonacci Sequence | ✅ Done |
 | ... | ... | ... |
